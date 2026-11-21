@@ -20,6 +20,8 @@ Most scripts require root and some perform destructive or service-impacting chan
 
 ## Usage
 
+git clone https://github.com/R0T1N00M/ccdc-scripts.git
+
 ```bash
 sudo bash 01_linux_inventory.sh
 sudo bash 02_linux_backup.sh
